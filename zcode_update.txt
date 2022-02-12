@@ -1,7 +1,8 @@
 update
+- iKPOP v.3.1
+- Fuluss v.2.2
 - electronic shop v.2.2
 - Drive Listen Korea v.2.2
-- iKPOP v.3.1
-- Fuluss v.1.2
 - eMoney
 - eCommerce
+- eWallet
