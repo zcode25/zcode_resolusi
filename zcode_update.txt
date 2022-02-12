@@ -3,3 +3,4 @@ update
 - Drive Listen Korea v.1.2
 - iKPOP v.3.1
 - Fuluss v.1.2
+- eMoney
